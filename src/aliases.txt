@@ -1,0 +1,6 @@
+dir - ls
+del - rm
+type - cat
+copy - cp
+help - ?
+cd - chdir
